@@ -1,0 +1,38 @@
+body {
+
+    background-color: #3868A6;
+    color: #A66B38;
+}
+ header, footer {
+    background-color: #0E3659;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid #595302;
+ }
+
+ h2 {
+    text-align: center;
+ }
+
+ p {
+    border: 5px solid #BDE038;
+    border-radius: 10px;
+    padding: 3px;
+ }
+
+ table {
+    border: 5px solid #BDE038;
+    border-radius: 10px;
+ }
+img {
+    height: 100px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    background-color: #587b99;
+    padding: 7px;
+    margin: 5px;
+    border-radius: 50px;
+}
